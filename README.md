@@ -4,6 +4,6 @@ Yapısal programlama mantığını oluşturan kavramların programcıların kafa
 
 Amacım Türkçe düşünen ve konuşan öğrencilerimize kavramları doğru bir şekilde aktarmaktır. 
 
-Bu kitap kâr amacı güdülmeden hazırlanmıştır ve referans gosterilerek her yerde kullanılabilir. Katkılarınızı bekler iyi çalışmalar dilerim.
+Bu kitap kâr amacı güdülmeden hazırlanmıştır ve referans gösterilerek her yerde kullanılabilir. Katkılarınızı bekler iyi çalışmalar dilerim.
 
 ilhanozkan[at]outlook.com
